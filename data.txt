@@ -1,0 +1,45 @@
+
+Tuition
+At Home = $3,12
+On Campus = $3,812
+Off Campus = $3,812
+
+Fees
+At Home = $3,402
+On Campus = $3,402
+Off Campus = $3,402
+
+Loan Fees
+At Home = $94
+On Campus = $94
+Off Campus = $94
+
+Books & Supplies
+At Home = $1000
+On Campus = $1000
+Off Campus = $1000
+
+Housing
+At Home = N/A
+On Campus = $9000
+Off Campus = $9000
+
+Meals
+At Home = $3,858	
+On Campus = $3,858	
+Off Campus = $3,858	
+
+Transportation
+At Home = $1,100
+On Campus = $1,100
+Off Campus = $1,100
+
+Miscellanious
+At Home = $1,450
+On Campus = $1,450
+Off Campus = $1,450
+
+Total 
+At Home = $14,716
+On Campus = $23,716
+Off Campus = $23,716
