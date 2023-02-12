@@ -1,4 +1,5 @@
 
+
 Tuition
 At Home = $3,12
 On Campus = $3,812
@@ -45,16 +46,16 @@ On Campus = $23,716
 Off Campus = $23,716
 
 The Daily Plan
-$2,210 per semester
+$4,420 
 
 160/350 Block Plan
-$1,906 per semester
+$3,812 
 
 100/350 Block Plan    
-$1,371 per semester
+$2,742 
 
 Straight DB
-$875 - $1200
+$1,750 - $2,400
 
 Parking Pass
-$240 per semester 
+$480 
