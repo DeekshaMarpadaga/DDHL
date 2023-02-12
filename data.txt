@@ -39,7 +39,22 @@ At Home = $1,450
 On Campus = $1,450
 Off Campus = $1,450
 
-Total 
+Total (for above)
 At Home = $14,716
 On Campus = $23,716
 Off Campus = $23,716
+
+The Daily Plan
+$2,210 per semester
+
+160/350 Block Plan
+$1,906 per semester
+
+100/350 Block Plan    
+$1,371 per semester
+
+Straight DB
+$875 - $1200
+
+Parking Pass
+$240 per semester 
